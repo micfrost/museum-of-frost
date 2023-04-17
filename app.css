@@ -1,0 +1,47 @@
+body {
+  background-color: #d7dfce;
+  font-family: "Raleway", "Nunito", sans-serif;
+  margin-top: 4.5rem;
+}
+
+#mainNavbar {
+  font-size: 1.5rem;
+  font-weight: 200;
+  background-color: #95acc6;
+}
+
+#mainNavbar .navbar-brand {
+  font-size: 2rem;
+}
+
+#mainNavbar .nav-link:hover {
+  font-weight: 400;
+}
+
+header {
+  background-color: #aeb5d6ff;
+  padding-top: 3rem;
+}
+
+@media (max-width: 576px) {
+  .col-sm-6 {
+    min-height: 576px;
+  }
+}
+
+#row1 {
+  background-color: #cbc0d8ff;
+}
+
+#row2 {
+  background-color: #f9dcea;
+}
+
+#row3 {
+  background-color: #eae0d7;
+}
+
+footer {
+  padding: 1rem;
+  color: rgb(100, 100, 100);
+}
